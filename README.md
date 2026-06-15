@@ -1,6 +1,6 @@
 # Secure Multi-Branch Enterprise Network using OSPF, VLANs, ACLs, and Port Security
 
-## 📌 Project Overview
+## 1. Project Overview
 
 This project demonstrates the design and implementation of a secure multi-branch enterprise network using Cisco Packet Tracer. The topology connects a Headquarters (HQ) with two branch offices—Coimbatore and Madurai—through WAN serial links.
 
@@ -8,7 +8,7 @@ The network incorporates enterprise-grade technologies including dynamic routing
 
 ---
 
-## 🎯 Objectives
+## 2. Objectives
 
 - Connect multiple branch offices to the headquarters.
 - Implement dynamic routing using OSPF.
@@ -20,7 +20,7 @@ The network incorporates enterprise-grade technologies including dynamic routing
 
 ---
 
-## 🏢 Network Topology
+## 3. Network Topology
 
 - **Headquarters (HQ)**
   - Multiple VLANs
@@ -40,7 +40,7 @@ The network incorporates enterprise-grade technologies including dynamic routing
 
 ---
 
-## 🛠 Technologies Used
+## 4. Technologies Used
 
 - Cisco Packet Tracer
 - OSPF (Open Shortest Path First)
@@ -53,7 +53,7 @@ The network incorporates enterprise-grade technologies including dynamic routing
 
 ---
 
-## 🌐 IP Addressing Scheme
+## 5. IP Addressing Scheme
 
 | Location | Network |
 |----------|---------|
@@ -66,7 +66,7 @@ The network incorporates enterprise-grade technologies including dynamic routing
 
 ---
 
-## 🔀 Routing Configuration
+## 6. Routing Configuration
 
 Dynamic routing is implemented using OSPF Area 0 across all routers.
 
@@ -79,7 +79,7 @@ Dynamic routing is implemented using OSPF Area 0 across all routers.
 
 ---
 
-## 🏷 VLAN Configuration
+## 7. VLAN Configuration
 
 | VLAN ID | Department |
 |--------|------------|
@@ -94,7 +94,7 @@ Dynamic routing is implemented using OSPF Area 0 across all routers.
 
 ---
 
-## 🔐 Security Features
+## 8. Security Features
 
 ### Extended ACLs
 
@@ -112,7 +112,7 @@ Branch-to-branch communication is blocked while allowing both branches to access
 
 ---
 
-## 🧪 Testing Results
+## 9. Testing Results
 
 | Test | Result |
 |------|--------|
@@ -127,7 +127,7 @@ Branch-to-branch communication is blocked while allowing both branches to access
 
 
 
-## 🚀 Skills Demonstrated
+## 10. Skills Demonstrated
 
 - Enterprise Network Design
 - OSPF Configuration
@@ -140,7 +140,7 @@ Branch-to-branch communication is blocked while allowing both branches to access
 
 ---
 
-## 🎓 Learning Outcomes
+## 11 Learning Outcomes
 
 This project provides hands-on experience in:
 
